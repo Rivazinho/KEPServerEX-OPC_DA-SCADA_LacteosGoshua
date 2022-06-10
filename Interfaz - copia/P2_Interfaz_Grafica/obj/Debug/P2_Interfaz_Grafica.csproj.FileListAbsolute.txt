@@ -1,0 +1,128 @@
+F:\3º-Informática industrial\P2_Interfaz_Grafica\P2_Interfaz_Grafica\bin\Debug\P2_Interfaz_Grafica.exe.config
+F:\3º-Informática industrial\P2_Interfaz_Grafica\P2_Interfaz_Grafica\bin\Debug\P2_Interfaz_Grafica.exe
+F:\3º-Informática industrial\P2_Interfaz_Grafica\P2_Interfaz_Grafica\bin\Debug\P2_Interfaz_Grafica.pdb
+F:\3º-Informática industrial\P2_Interfaz_Grafica\P2_Interfaz_Grafica\obj\Debug\P2_Interfaz_Grafica.csprojResolveAssemblyReference.cache
+F:\3º-Informática industrial\P2_Interfaz_Grafica\P2_Interfaz_Grafica\obj\Debug\MainWindow.g.cs
+F:\3º-Informática industrial\P2_Interfaz_Grafica\P2_Interfaz_Grafica\obj\Debug\App.g.cs
+F:\3º-Informática industrial\P2_Interfaz_Grafica\P2_Interfaz_Grafica\obj\Debug\P2_Interfaz_Grafica_MarkupCompile.cache
+F:\3º-Informática industrial\P2_Interfaz_Grafica\P2_Interfaz_Grafica\obj\Debug\P2_Interfaz_Grafica_MarkupCompile.lref
+F:\3º-Informática industrial\P2_Interfaz_Grafica\P2_Interfaz_Grafica\obj\Debug\MainWindow.baml
+F:\3º-Informática industrial\P2_Interfaz_Grafica\P2_Interfaz_Grafica\obj\Debug\P2_Interfaz_Grafica.g.resources
+F:\3º-Informática industrial\P2_Interfaz_Grafica\P2_Interfaz_Grafica\obj\Debug\P2_Interfaz_Grafica.Properties.Resources.resources
+F:\3º-Informática industrial\P2_Interfaz_Grafica\P2_Interfaz_Grafica\obj\Debug\P2_Interfaz_Grafica.csproj.GenerateResource.Cache
+F:\3º-Informática industrial\P2_Interfaz_Grafica\P2_Interfaz_Grafica\obj\Debug\P2_Interfaz_Grafica.exe
+F:\3º-Informática industrial\P2_Interfaz_Grafica\P2_Interfaz_Grafica\obj\Debug\P2_Interfaz_Grafica.pdb
+D:\Bruno\Documents\3º - 1º Cuatrimestre\Informática Industrial\Prácticas\P2_Interfaz_Grafica.2\P2_Interfaz_Grafica\bin\Debug\P2_Interfaz_Grafica.exe.config
+D:\Bruno\Documents\3º - 1º Cuatrimestre\Informática Industrial\Prácticas\P2_Interfaz_Grafica.2\P2_Interfaz_Grafica\bin\Debug\P2_Interfaz_Grafica.exe
+D:\Bruno\Documents\3º - 1º Cuatrimestre\Informática Industrial\Prácticas\P2_Interfaz_Grafica.2\P2_Interfaz_Grafica\bin\Debug\P2_Interfaz_Grafica.pdb
+D:\Bruno\Documents\3º - 1º Cuatrimestre\Informática Industrial\Prácticas\P2_Interfaz_Grafica.2\P2_Interfaz_Grafica\obj\Debug\P2_Interfaz_Grafica.csprojAssemblyReference.cache
+D:\Bruno\Documents\3º - 1º Cuatrimestre\Informática Industrial\Prácticas\P2_Interfaz_Grafica.2\P2_Interfaz_Grafica\obj\Debug\MainWindow.g.cs
+D:\Bruno\Documents\3º - 1º Cuatrimestre\Informática Industrial\Prácticas\P2_Interfaz_Grafica.2\P2_Interfaz_Grafica\obj\Debug\App.g.cs
+D:\Bruno\Documents\3º - 1º Cuatrimestre\Informática Industrial\Prácticas\P2_Interfaz_Grafica.2\P2_Interfaz_Grafica\obj\Debug\P2_Interfaz_Grafica_MarkupCompile.cache
+D:\Bruno\Documents\3º - 1º Cuatrimestre\Informática Industrial\Prácticas\P2_Interfaz_Grafica.2\P2_Interfaz_Grafica\obj\Debug\P2_Interfaz_Grafica_MarkupCompile.lref
+D:\Bruno\Documents\3º - 1º Cuatrimestre\Informática Industrial\Prácticas\P2_Interfaz_Grafica.2\P2_Interfaz_Grafica\obj\Debug\MainWindow.baml
+D:\Bruno\Documents\3º - 1º Cuatrimestre\Informática Industrial\Prácticas\P2_Interfaz_Grafica.2\P2_Interfaz_Grafica\obj\Debug\P2_Interfaz_Grafica.g.resources
+D:\Bruno\Documents\3º - 1º Cuatrimestre\Informática Industrial\Prácticas\P2_Interfaz_Grafica.2\P2_Interfaz_Grafica\obj\Debug\P2_Interfaz_Grafica.Properties.Resources.resources
+D:\Bruno\Documents\3º - 1º Cuatrimestre\Informática Industrial\Prácticas\P2_Interfaz_Grafica.2\P2_Interfaz_Grafica\obj\Debug\P2_Interfaz_Grafica.csproj.GenerateResource.cache
+D:\Bruno\Documents\3º - 1º Cuatrimestre\Informática Industrial\Prácticas\P2_Interfaz_Grafica.2\P2_Interfaz_Grafica\obj\Debug\P2_Interfaz_Grafica.csproj.CoreCompileInputs.cache
+D:\Bruno\Documents\3º - 1º Cuatrimestre\Informática Industrial\Prácticas\P2_Interfaz_Grafica.2\P2_Interfaz_Grafica\obj\Debug\P2_Interfaz_Grafica.exe
+D:\Bruno\Documents\3º - 1º Cuatrimestre\Informática Industrial\Prácticas\P2_Interfaz_Grafica.2\P2_Interfaz_Grafica\obj\Debug\P2_Interfaz_Grafica.pdb
+F:\3º-Informática industrial\P2_Interfaz_Grafica.2\P2_Interfaz_Grafica\bin\Debug\P2_Interfaz_Grafica.exe.config
+F:\3º-Informática industrial\P2_Interfaz_Grafica.2\P2_Interfaz_Grafica\bin\Debug\P2_Interfaz_Grafica.exe
+F:\3º-Informática industrial\P2_Interfaz_Grafica.2\P2_Interfaz_Grafica\bin\Debug\P2_Interfaz_Grafica.pdb
+F:\3º-Informática industrial\P2_Interfaz_Grafica.2\P2_Interfaz_Grafica\obj\Debug\P2_Interfaz_Grafica.csprojAssemblyReference.cache
+F:\3º-Informática industrial\P2_Interfaz_Grafica.2\P2_Interfaz_Grafica\obj\Debug\MainWindow.g.cs
+F:\3º-Informática industrial\P2_Interfaz_Grafica.2\P2_Interfaz_Grafica\obj\Debug\App.g.cs
+F:\3º-Informática industrial\P2_Interfaz_Grafica.2\P2_Interfaz_Grafica\obj\Debug\P2_Interfaz_Grafica_MarkupCompile.cache
+F:\3º-Informática industrial\P2_Interfaz_Grafica.2\P2_Interfaz_Grafica\obj\Debug\P2_Interfaz_Grafica_MarkupCompile.lref
+F:\3º-Informática industrial\P2_Interfaz_Grafica.2\P2_Interfaz_Grafica\obj\Debug\MainWindow.baml
+F:\3º-Informática industrial\P2_Interfaz_Grafica.2\P2_Interfaz_Grafica\obj\Debug\P2_Interfaz_Grafica.g.resources
+F:\3º-Informática industrial\P2_Interfaz_Grafica.2\P2_Interfaz_Grafica\obj\Debug\P2_Interfaz_Grafica.Properties.Resources.resources
+F:\3º-Informática industrial\P2_Interfaz_Grafica.2\P2_Interfaz_Grafica\obj\Debug\P2_Interfaz_Grafica.csproj.GenerateResource.cache
+F:\3º-Informática industrial\P2_Interfaz_Grafica.2\P2_Interfaz_Grafica\obj\Debug\P2_Interfaz_Grafica.csproj.CoreCompileInputs.cache
+F:\3º-Informática industrial\P2_Interfaz_Grafica.2\P2_Interfaz_Grafica\obj\Debug\P2_Interfaz_Grafica.exe
+F:\3º-Informática industrial\P2_Interfaz_Grafica.2\P2_Interfaz_Grafica\obj\Debug\P2_Interfaz_Grafica.pdb
+F:\3º-Informática industrial\P2_Interfaz_Grafica.bruno\P2_Interfaz_Grafica\obj\Debug\P2_Interfaz_Grafica.csprojAssemblyReference.cache
+F:\3º-Informática industrial\P2_Interfaz_Grafica.bruno\P2_Interfaz_Grafica\obj\Debug\MainWindow.g.cs
+F:\3º-Informática industrial\P2_Interfaz_Grafica.bruno\P2_Interfaz_Grafica\obj\Debug\App.g.cs
+F:\3º-Informática industrial\P2_Interfaz_Grafica.bruno\P2_Interfaz_Grafica\obj\Debug\P2_Interfaz_Grafica_MarkupCompile.cache
+F:\3º-Informática industrial\P2_Interfaz_Grafica.bruno\P2_Interfaz_Grafica\obj\Debug\P2_Interfaz_Grafica_MarkupCompile.lref
+F:\3º-Informática industrial\P2_Interfaz_Grafica.bruno\P2_Interfaz_Grafica\obj\Debug\P2_Interfaz_Grafica.exe
+F:\3º-Informática industrial\P2_Interfaz_Grafica.bruno\P2_Interfaz_Grafica\obj\Debug\P2_Interfaz_Grafica.pdb
+F:\3º-Informática industrial\P2_Interfaz_Grafica.bruno\P2_Interfaz_Grafica\bin\Debug\P2_Interfaz_Grafica.exe.config
+F:\3º-Informática industrial\P2_Interfaz_Grafica.bruno\P2_Interfaz_Grafica\bin\Debug\P2_Interfaz_Grafica.exe
+F:\3º-Informática industrial\P2_Interfaz_Grafica.bruno\P2_Interfaz_Grafica\bin\Debug\P2_Interfaz_Grafica.pdb
+F:\3º-Informática industrial\P2_Interfaz_Grafica.bruno\P2_Interfaz_Grafica\obj\Debug\MainWindow.baml
+F:\3º-Informática industrial\P2_Interfaz_Grafica.bruno\P2_Interfaz_Grafica\obj\Debug\P2_Interfaz_Grafica.g.resources
+F:\3º-Informática industrial\P2_Interfaz_Grafica.bruno\P2_Interfaz_Grafica\obj\Debug\P2_Interfaz_Grafica.Properties.Resources.resources
+F:\3º-Informática industrial\P2_Interfaz_Grafica.bruno\P2_Interfaz_Grafica\obj\Debug\P2_Interfaz_Grafica.csproj.GenerateResource.cache
+F:\3º-Informática industrial\P2_Interfaz_Grafica.bruno\P2_Interfaz_Grafica\obj\Debug\P2_Interfaz_Grafica.csproj.CoreCompileInputs.cache
+E:\3º Curso\1º Cuatrimestre\Informática industrial\Práctica 2\P2_Interfaz_Grafica.Bruno\P2_Interfaz_Grafica\bin\Debug\P2_Interfaz_Grafica.exe.config
+E:\3º Curso\1º Cuatrimestre\Informática industrial\Práctica 2\P2_Interfaz_Grafica.Bruno\P2_Interfaz_Grafica\bin\Debug\P2_Interfaz_Grafica.exe
+E:\3º Curso\1º Cuatrimestre\Informática industrial\Práctica 2\P2_Interfaz_Grafica.Bruno\P2_Interfaz_Grafica\bin\Debug\P2_Interfaz_Grafica.pdb
+E:\3º Curso\1º Cuatrimestre\Informática industrial\Práctica 2\P2_Interfaz_Grafica.Bruno\P2_Interfaz_Grafica\obj\Debug\P2_Interfaz_Grafica.csprojAssemblyReference.cache
+E:\3º Curso\1º Cuatrimestre\Informática industrial\Práctica 2\P2_Interfaz_Grafica.Bruno\P2_Interfaz_Grafica\obj\Debug\MainWindow.g.cs
+E:\3º Curso\1º Cuatrimestre\Informática industrial\Práctica 2\P2_Interfaz_Grafica.Bruno\P2_Interfaz_Grafica\obj\Debug\App.g.cs
+E:\3º Curso\1º Cuatrimestre\Informática industrial\Práctica 2\P2_Interfaz_Grafica.Bruno\P2_Interfaz_Grafica\obj\Debug\P2_Interfaz_Grafica_MarkupCompile.cache
+E:\3º Curso\1º Cuatrimestre\Informática industrial\Práctica 2\P2_Interfaz_Grafica.Bruno\P2_Interfaz_Grafica\obj\Debug\P2_Interfaz_Grafica_MarkupCompile.lref
+E:\3º Curso\1º Cuatrimestre\Informática industrial\Práctica 2\P2_Interfaz_Grafica.Bruno\P2_Interfaz_Grafica\obj\Debug\MainWindow.baml
+E:\3º Curso\1º Cuatrimestre\Informática industrial\Práctica 2\P2_Interfaz_Grafica.Bruno\P2_Interfaz_Grafica\obj\Debug\P2_Interfaz_Grafica.g.resources
+E:\3º Curso\1º Cuatrimestre\Informática industrial\Práctica 2\P2_Interfaz_Grafica.Bruno\P2_Interfaz_Grafica\obj\Debug\P2_Interfaz_Grafica.Properties.Resources.resources
+E:\3º Curso\1º Cuatrimestre\Informática industrial\Práctica 2\P2_Interfaz_Grafica.Bruno\P2_Interfaz_Grafica\obj\Debug\P2_Interfaz_Grafica.csproj.GenerateResource.cache
+E:\3º Curso\1º Cuatrimestre\Informática industrial\Práctica 2\P2_Interfaz_Grafica.Bruno\P2_Interfaz_Grafica\obj\Debug\P2_Interfaz_Grafica.csproj.CoreCompileInputs.cache
+E:\3º Curso\1º Cuatrimestre\Informática industrial\Práctica 2\P2_Interfaz_Grafica.Bruno\P2_Interfaz_Grafica\obj\Debug\P2_Interfaz_Grafica.exe
+E:\3º Curso\1º Cuatrimestre\Informática industrial\Práctica 2\P2_Interfaz_Grafica.Bruno\P2_Interfaz_Grafica\obj\Debug\P2_Interfaz_Grafica.pdb
+F:\3º Curso\1º Cuatrimestre\Informática industrial\Práctica 2\P2_Interfaz_Grafica.Bruno\P2_Interfaz_Grafica\bin\Debug\P2_Interfaz_Grafica.exe.config
+F:\3º Curso\1º Cuatrimestre\Informática industrial\Práctica 2\P2_Interfaz_Grafica.Bruno\P2_Interfaz_Grafica\obj\Debug\P2_Interfaz_Grafica.exe
+F:\3º Curso\1º Cuatrimestre\Informática industrial\Práctica 2\P2_Interfaz_Grafica.Bruno\P2_Interfaz_Grafica\obj\Debug\P2_Interfaz_Grafica.pdb
+F:\3º Curso\1º Cuatrimestre\Informática industrial\Práctica 2\P2_Interfaz_Grafica.Bruno\P2_Interfaz_Grafica\bin\Debug\P2_Interfaz_Grafica.exe
+F:\3º Curso\1º Cuatrimestre\Informática industrial\Práctica 2\P2_Interfaz_Grafica.Bruno\P2_Interfaz_Grafica\bin\Debug\P2_Interfaz_Grafica.pdb
+F:\3º Curso\1º Cuatrimestre\Informática industrial\Práctica 2\P2_Interfaz_Grafica.Bruno\P2_Interfaz_Grafica\obj\Debug\P2_Interfaz_Grafica.csprojResolveAssemblyReference.cache
+F:\3º Curso\1º Cuatrimestre\Informática industrial\Práctica 2\P2_Interfaz_Grafica.Bruno\P2_Interfaz_Grafica\obj\Debug\MainWindow.g.cs
+F:\3º Curso\1º Cuatrimestre\Informática industrial\Práctica 2\P2_Interfaz_Grafica.Bruno\P2_Interfaz_Grafica\obj\Debug\App.g.cs
+F:\3º Curso\1º Cuatrimestre\Informática industrial\Práctica 2\P2_Interfaz_Grafica.Bruno\P2_Interfaz_Grafica\obj\Debug\P2_Interfaz_Grafica_MarkupCompile.cache
+F:\3º Curso\1º Cuatrimestre\Informática industrial\Práctica 2\P2_Interfaz_Grafica.Bruno\P2_Interfaz_Grafica\obj\Debug\P2_Interfaz_Grafica_MarkupCompile.lref
+F:\3º Curso\1º Cuatrimestre\Informática industrial\Práctica 2\P2_Interfaz_Grafica.Bruno\P2_Interfaz_Grafica\obj\Debug\MainWindow.baml
+F:\3º Curso\1º Cuatrimestre\Informática industrial\Práctica 2\P2_Interfaz_Grafica.Bruno\P2_Interfaz_Grafica\obj\Debug\P2_Interfaz_Grafica.g.resources
+F:\3º Curso\1º Cuatrimestre\Informática industrial\Práctica 2\P2_Interfaz_Grafica.Bruno\P2_Interfaz_Grafica\obj\Debug\P2_Interfaz_Grafica.Properties.Resources.resources
+F:\3º Curso\1º Cuatrimestre\Informática industrial\Práctica 2\P2_Interfaz_Grafica.Bruno\P2_Interfaz_Grafica\obj\Debug\P2_Interfaz_Grafica.csproj.GenerateResource.Cache
+F:\3º Curso\1º Cuatrimestre\Informática industrial\Práctica 2\P2_Interfaz_Grafica.Estable\P2_Interfaz_Grafica\bin\Debug\P2_Interfaz_Grafica.exe.config
+F:\3º Curso\1º Cuatrimestre\Informática industrial\Práctica 2\P2_Interfaz_Grafica.Estable\P2_Interfaz_Grafica\obj\Debug\P2_Interfaz_Grafica.exe
+F:\3º Curso\1º Cuatrimestre\Informática industrial\Práctica 2\P2_Interfaz_Grafica.Estable\P2_Interfaz_Grafica\obj\Debug\P2_Interfaz_Grafica.pdb
+F:\3º Curso\1º Cuatrimestre\Informática industrial\Práctica 2\P2_Interfaz_Grafica.Estable\P2_Interfaz_Grafica\bin\Debug\P2_Interfaz_Grafica.exe
+F:\3º Curso\1º Cuatrimestre\Informática industrial\Práctica 2\P2_Interfaz_Grafica.Estable\P2_Interfaz_Grafica\bin\Debug\P2_Interfaz_Grafica.pdb
+F:\3º Curso\1º Cuatrimestre\Informática industrial\Práctica 2\P2_Interfaz_Grafica.Estable\P2_Interfaz_Grafica\obj\Debug\P2_Interfaz_Grafica.csprojResolveAssemblyReference.cache
+F:\3º Curso\1º Cuatrimestre\Informática industrial\Práctica 2\P2_Interfaz_Grafica.Estable\P2_Interfaz_Grafica\obj\Debug\MainWindow.g.cs
+F:\3º Curso\1º Cuatrimestre\Informática industrial\Práctica 2\P2_Interfaz_Grafica.Estable\P2_Interfaz_Grafica\obj\Debug\App.g.cs
+F:\3º Curso\1º Cuatrimestre\Informática industrial\Práctica 2\P2_Interfaz_Grafica.Estable\P2_Interfaz_Grafica\obj\Debug\P2_Interfaz_Grafica_MarkupCompile.cache
+F:\3º Curso\1º Cuatrimestre\Informática industrial\Práctica 2\P2_Interfaz_Grafica.Estable\P2_Interfaz_Grafica\obj\Debug\P2_Interfaz_Grafica_MarkupCompile.lref
+F:\3º Curso\1º Cuatrimestre\Informática industrial\Práctica 2\P2_Interfaz_Grafica.Estable\P2_Interfaz_Grafica\obj\Debug\MainWindow.baml
+F:\3º Curso\1º Cuatrimestre\Informática industrial\Práctica 2\P2_Interfaz_Grafica.Estable\P2_Interfaz_Grafica\obj\Debug\P2_Interfaz_Grafica.g.resources
+F:\3º Curso\1º Cuatrimestre\Informática industrial\Práctica 2\P2_Interfaz_Grafica.Estable\P2_Interfaz_Grafica\obj\Debug\P2_Interfaz_Grafica.Properties.Resources.resources
+F:\3º Curso\1º Cuatrimestre\Informática industrial\Práctica 2\P2_Interfaz_Grafica.Estable\P2_Interfaz_Grafica\obj\Debug\P2_Interfaz_Grafica.csproj.GenerateResource.Cache
+F:\3º Curso\1º Cuatrimestre\Informática industrial\Práctica 2\P2_Interfaz_Grafica.Estable\P2_Interfaz_Grafica\bin\Debug\OpcLabs.BaseLib.dll
+F:\3º Curso\1º Cuatrimestre\Informática industrial\Práctica 2\P2_Interfaz_Grafica.Estable\P2_Interfaz_Grafica\bin\Debug\OpcLabs.EasyOpcClassic.dll
+F:\3º Curso\1º Cuatrimestre\Informática industrial\Práctica 2\P2_Interfaz_Grafica.Estable\P2_Interfaz_Grafica\bin\Debug\App_Web_OpcLabs.EasyOpcClassicRaw.amd64.dll
+F:\3º Curso\1º Cuatrimestre\Informática industrial\Práctica 2\P2_Interfaz_Grafica.Estable\P2_Interfaz_Grafica\bin\Debug\App_Web_OpcLabs.EasyOpcClassicRaw.x86.dll
+F:\3º Curso\1º Cuatrimestre\Informática industrial\Práctica 2\P2_Interfaz_Grafica.Estable\P2_Interfaz_Grafica\bin\Debug\OpcLabs.BaseLib.xml
+F:\3º Curso\1º Cuatrimestre\Informática industrial\Práctica 2\P2_Interfaz_Grafica.Estable\P2_Interfaz_Grafica\bin\Debug\OpcLabs.EasyOpcClassic.xml
+F:\3º Curso\1º Cuatrimestre\Informática industrial\Práctica 3\Interfaz\P2_Interfaz_Grafica\bin\Debug\P2_Interfaz_Grafica.exe.config
+F:\3º Curso\1º Cuatrimestre\Informática industrial\Práctica 3\Interfaz\P2_Interfaz_Grafica\obj\Debug\P2_Interfaz_Grafica.exe
+F:\3º Curso\1º Cuatrimestre\Informática industrial\Práctica 3\Interfaz\P2_Interfaz_Grafica\obj\Debug\P2_Interfaz_Grafica.pdb
+F:\3º Curso\1º Cuatrimestre\Informática industrial\Práctica 3\Interfaz\P2_Interfaz_Grafica\bin\Debug\P2_Interfaz_Grafica.exe
+F:\3º Curso\1º Cuatrimestre\Informática industrial\Práctica 3\Interfaz\P2_Interfaz_Grafica\bin\Debug\P2_Interfaz_Grafica.pdb
+F:\3º Curso\1º Cuatrimestre\Informática industrial\Práctica 3\Interfaz\P2_Interfaz_Grafica\bin\Debug\OpcLabs.BaseLib.dll
+F:\3º Curso\1º Cuatrimestre\Informática industrial\Práctica 3\Interfaz\P2_Interfaz_Grafica\bin\Debug\OpcLabs.EasyOpcClassic.dll
+F:\3º Curso\1º Cuatrimestre\Informática industrial\Práctica 3\Interfaz\P2_Interfaz_Grafica\bin\Debug\App_Web_OpcLabs.EasyOpcClassicRaw.amd64.dll
+F:\3º Curso\1º Cuatrimestre\Informática industrial\Práctica 3\Interfaz\P2_Interfaz_Grafica\bin\Debug\App_Web_OpcLabs.EasyOpcClassicRaw.x86.dll
+F:\3º Curso\1º Cuatrimestre\Informática industrial\Práctica 3\Interfaz\P2_Interfaz_Grafica\bin\Debug\OpcLabs.BaseLib.xml
+F:\3º Curso\1º Cuatrimestre\Informática industrial\Práctica 3\Interfaz\P2_Interfaz_Grafica\bin\Debug\OpcLabs.EasyOpcClassic.xml
+F:\3º Curso\1º Cuatrimestre\Informática industrial\Práctica 3\Interfaz\P2_Interfaz_Grafica\obj\Debug\P2_Interfaz_Grafica.csprojResolveAssemblyReference.cache
+F:\3º Curso\1º Cuatrimestre\Informática industrial\Práctica 3\Interfaz\P2_Interfaz_Grafica\obj\Debug\MainWindow.g.cs
+F:\3º Curso\1º Cuatrimestre\Informática industrial\Práctica 3\Interfaz\P2_Interfaz_Grafica\obj\Debug\App.g.cs
+F:\3º Curso\1º Cuatrimestre\Informática industrial\Práctica 3\Interfaz\P2_Interfaz_Grafica\obj\Debug\P2_Interfaz_Grafica_MarkupCompile.cache
+F:\3º Curso\1º Cuatrimestre\Informática industrial\Práctica 3\Interfaz\P2_Interfaz_Grafica\obj\Debug\P2_Interfaz_Grafica_MarkupCompile.lref
+F:\3º Curso\1º Cuatrimestre\Informática industrial\Práctica 3\Interfaz\P2_Interfaz_Grafica\obj\Debug\MainWindow.baml
+F:\3º Curso\1º Cuatrimestre\Informática industrial\Práctica 3\Interfaz\P2_Interfaz_Grafica\obj\Debug\P2_Interfaz_Grafica.g.resources
+F:\3º Curso\1º Cuatrimestre\Informática industrial\Práctica 3\Interfaz\P2_Interfaz_Grafica\obj\Debug\P2_Interfaz_Grafica.Properties.Resources.resources
+F:\3º Curso\1º Cuatrimestre\Informática industrial\Práctica 3\Interfaz\P2_Interfaz_Grafica\obj\Debug\P2_Interfaz_Grafica.csproj.GenerateResource.Cache

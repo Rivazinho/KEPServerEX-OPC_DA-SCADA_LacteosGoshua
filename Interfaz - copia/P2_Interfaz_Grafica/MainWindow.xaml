@@ -1,0 +1,170 @@
+﻿<Window x:Class="P2_Interfaz_Grafica.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:P2_Interfaz_Grafica"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="537.91" Width="1184.264">
+    <Grid Margin="0,0,0,-2" RenderTransformOrigin="0.558,0.481">
+        <CheckBox x:Name="Camion" Content="Camión" HorizontalAlignment="Left" Margin="38,22,0,0" VerticalAlignment="Top" Click="Camion_Click"/>
+        <Label x:Name="Temp_ent" Content="Temp:" HorizontalAlignment="Left" Margin="38,48,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="Caudal_ent" Content="Caudal:" HorizontalAlignment="Left" Margin="38,81,0,0" VerticalAlignment="Top"/>
+        <Image x:Name="Bomba1" HorizontalAlignment="Left" Height="53" Margin="284,29,0,0" VerticalAlignment="Top" Width="65" Source="Imágenes/Bomba agua 3.jpg"/>
+        <Ellipse x:Name="Bomba1_piloto" Fill="Red" HorizontalAlignment="Left" Height="20" Margin="301,50,0,0" Stroke="Black" VerticalAlignment="Top" Width="20"/>
+        <Rectangle x:Name="Deposito100k" Fill="#FF838783" HorizontalAlignment="Left" Height="130" Margin="396,22,0,0" Stroke="Black" VerticalAlignment="Top" Width="80"/>
+        <Label x:Name="Temp_dep100k" Content="Temp:" HorizontalAlignment="Left" Margin="488,66,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="Capacidad_100k" Content="Capacidad:" HorizontalAlignment="Left" Margin="488,94,0,0" VerticalAlignment="Top"/>
+        <Rectangle x:Name="Nivel_100k" Fill="White" HorizontalAlignment="Left" Height="130" Margin="448,22,0,0" Stroke="Black" VerticalAlignment="Top" Width="20"/>
+        <Image x:Name="Bomba2" HorizontalAlignment="Left" Height="53" Margin="577,29,0,0" VerticalAlignment="Top" Width="65" Source="Imágenes/Bomba agua 3.jpg"/>
+        <Ellipse x:Name="Bomba2_piloto" Fill="Red" HorizontalAlignment="Left" Height="20" Margin="594,50,0,0" Stroke="Black" VerticalAlignment="Top" Width="20"/>
+        <Rectangle x:Name="Deposito100k_Copy" Fill="#FF838783" HorizontalAlignment="Left" Height="130" Margin="669,22,0,0" Stroke="Black" VerticalAlignment="Top" Width="80"/>
+        <Label x:Name="Label_deposito_100k" Content="Depósito 100k" HorizontalAlignment="Left" Margin="396,166,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="Pasteurizador" Content="Pasteurizador" HorizontalAlignment="Left" Margin="669,166,0,0" VerticalAlignment="Top"/>
+        <Ellipse x:Name="Calefactor_piloto" Fill="Orange" HorizontalAlignment="Left" Height="20" Margin="867,32,0,0" Stroke="Black" VerticalAlignment="Top" Width="20" RenderTransformOrigin="-1.435,0.632"/>
+        <Label x:Name="Temp_vapor" Content="Temp vapor:" HorizontalAlignment="Left" Margin="775,58,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="Temp_leche_past" Content="Temp leche:" HorizontalAlignment="Left" Margin="775,89,0,0" VerticalAlignment="Top"/>
+        <Image x:Name="Bomba3" HorizontalAlignment="Left" Height="53" Margin="38,282,0,0" VerticalAlignment="Top" Width="65" Source="Imágenes/Bomba agua 3.jpg"/>
+        <Ellipse x:Name="Bomba3_piloto" Fill="Red" HorizontalAlignment="Left" Height="20" Margin="55,303,0,0" Stroke="Black" VerticalAlignment="Top" Width="20"/>
+        <Rectangle x:Name="Deposito50k" Fill="#FF838783" HorizontalAlignment="Left" Height="130" Margin="150,275,0,0" Stroke="Black" VerticalAlignment="Top" Width="80"/>
+        <Label x:Name="Temp_dep50k" Content="Temp:" HorizontalAlignment="Left" Margin="242,325,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="Capacidad_50k" Content="Capacidad:" HorizontalAlignment="Left" Margin="242,359,0,0" VerticalAlignment="Top"/>
+        <Rectangle x:Name="Nivel_50k" Fill="White" HorizontalAlignment="Left" Height="130" Margin="202,275,0,0" Stroke="Black" VerticalAlignment="Top" Width="20"/>
+        <Label x:Name="Label_deposito_50k" Content="Depósito 50k" HorizontalAlignment="Left" Margin="150,427,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="Caudal_Bomba3" Content="Caudal bomba:" HorizontalAlignment="Left" Margin="38,365,0,0" VerticalAlignment="Top"/>
+        <Image x:Name="Bomba_agua_fria" HorizontalAlignment="Left" Height="53" Margin="351,282,0,0" VerticalAlignment="Top" Width="65" Source="Imágenes/Bomba agua 3.jpg"/>
+        <Ellipse x:Name="Bomba_agua_fria_piloto" Fill="Red" HorizontalAlignment="Left" Height="20" Margin="368,303,0,0" Stroke="Black" VerticalAlignment="Top" Width="20"/>
+        <Label x:Name="Caudal_Bomba_agua_fria" Content="Caudal bomba:" HorizontalAlignment="Left" Margin="331,365,0,0" VerticalAlignment="Top"/>
+        <CheckBox x:Name="Agitador" Content="Agitador" HorizontalAlignment="Left" Margin="160,249,0,0" VerticalAlignment="Top" Click="Agitador_Click"/>
+        <CheckBox x:Name="Bomba1_estado" Content="Bomba 1" HorizontalAlignment="Left" Margin="274,87,0,0" VerticalAlignment="Top" Click="Bomba1_estado_Click"/>
+        <CheckBox x:Name="Bomba2_estado" Content="Bomba 2" HorizontalAlignment="Left" Margin="568,89,0,0" VerticalAlignment="Top" Click="Bomba2_estado_Click"/>
+        <CheckBox x:Name="Bomba3_estado" Content="Bomba 3" HorizontalAlignment="Left" Margin="27,328,0,0" VerticalAlignment="Top" Click="Bomba3_estado_Click"/>
+        <CheckBox x:Name="Bomba_agua_fria_estado" Content="Bomba agua fría" HorizontalAlignment="Left" Margin="331,328,0,0" VerticalAlignment="Top" Click="Bomba_agua_fria_estado_Click"/>
+        <Label x:Name="label" Content="Unidades palet" HorizontalAlignment="Left" Margin="476,276,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label1" Content="Tipo palet" HorizontalAlignment="Left" Margin="476,303,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label2" Content="Fecha caducidad" HorizontalAlignment="Left" Margin="476,331,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label3" Content="Lote fabricación" HorizontalAlignment="Left" Margin="476,360,0,0" VerticalAlignment="Top" RenderTransformOrigin="1.192,1.059"/>
+        <Label x:Name="label4" Content="Primer palet" HorizontalAlignment="Left" Margin="476,388,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="textBox_Unidades" HorizontalAlignment="Left" Height="23" Margin="583,280,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="textBox_Fecha" HorizontalAlignment="Left" Height="23" Margin="583,335,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="textBox_Lote" HorizontalAlignment="Left" Height="23" Margin="583,363,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="textBox_Primero" HorizontalAlignment="Left" Height="23" Margin="583,391,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="Caudal_fabricacion" Content="Caudal fabricación:" HorizontalAlignment="Left" Margin="476,246.148,0,0" VerticalAlignment="Top" d:LayoutOverrides="HorizontalAlignment"/>
+        <Rectangle x:Name="Deposito50k_Copy" Fill="#FF838783" HorizontalAlignment="Left" Height="130" Margin="759,275,0,0" Stroke="Black" VerticalAlignment="Top" Width="80"/>
+        <Rectangle x:Name="Nivel_cuajo" Fill="White" HorizontalAlignment="Left" Height="130" Margin="811,275,0,0" Stroke="Black" VerticalAlignment="Top" Width="20"/>
+        <Label x:Name="Label_deposito_50" Content="Depósito cuajo" HorizontalAlignment="Left" Margin="760,427,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="Capacidad_cuajo" Content="Capacidad:" HorizontalAlignment="Left" Margin="856,305,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="Boton_trasvase" Content="Trasvasar 5 litros" HorizontalAlignment="Left" Margin="856,275,0,0" VerticalAlignment="Top" Width="92"/>
+        <Ellipse x:Name="Lampara_marcha" Fill="Green" HorizontalAlignment="Left" Height="20" Margin="962,337,0,0" Stroke="Black" VerticalAlignment="Top" Width="20"/>
+        <Ellipse x:Name="Lampara_leche" Fill="Red" HorizontalAlignment="Left" Height="20" Margin="962,360,0,0" Stroke="Black" VerticalAlignment="Top" Width="20"/>
+        <Ellipse x:Name="Lampara_cuajo" Fill="Red" HorizontalAlignment="Left" Height="20" Margin="962,385,0,0" Stroke="Black" VerticalAlignment="Top" Width="20"/>
+        <Label x:Name="Marcha" Content="Marcha" HorizontalAlignment="Left" Margin="856,329,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="Nivel_bajo_leche" Content="Nivel leche bajo" HorizontalAlignment="Left" Margin="856,354,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="Nivel_bajo_cuajo" Content="Nivel cuajo bajo" HorizontalAlignment="Left" Margin="856,379,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="Analisis_pos" Content="Análisis positivo" HorizontalAlignment="Left" Margin="38,117,0,0" VerticalAlignment="Top" Click="Analisis_pos_Click"/>
+        <RadioButton x:Name="Analisis_neg" Content="Análisis negativo" HorizontalAlignment="Left" Margin="38,140,0,0" VerticalAlignment="Top" Click="Analisis_neg_Click"/>
+        <Image x:Name="Camion1" HorizontalAlignment="Left" Height="71" Margin="175,36,0,0" VerticalAlignment="Top" Width="72" Source="Imágenes/Remolque con deposito.jpg"/>
+        <Rectangle Fill="#FFA8A8A8" HorizontalAlignment="Left" Height="9" Margin="244,55,0,0" Stroke="Black" VerticalAlignment="Top" Width="47"/>
+        <Rectangle Fill="#FFA8A8A8" HorizontalAlignment="Left" Height="9" Margin="330,55,0,0" Stroke="Black" VerticalAlignment="Top" Width="67"/>
+        <Rectangle Fill="#FFA8A8A8" HorizontalAlignment="Left" Height="9" Margin="475,55,0,0" Stroke="Black" VerticalAlignment="Top" Width="109"/>
+        <Rectangle Fill="#FFA8A8A8" HorizontalAlignment="Left" Height="9" Margin="623,55,0,0" Stroke="Black" VerticalAlignment="Top" Width="47"/>
+        <Rectangle Fill="#FFA8A8A8" HorizontalAlignment="Left" Height="9" Margin="10,202,0,0" Stroke="Black" VerticalAlignment="Top" Width="794"/>
+        <Rectangle Fill="#FFA8A8A8" HorizontalAlignment="Left" Height="9" Margin="748,130,0,0" Stroke="Black" VerticalAlignment="Top" Width="48"/>
+        <Rectangle Fill="#FFA8A8A8" HorizontalAlignment="Left" Height="9" Margin="763,162,0,0" Stroke="Black" VerticalAlignment="Top" Width="73" RenderTransformOrigin="0.5,0.5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="90"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Rectangle Fill="#FFA8A8A8" HorizontalAlignment="Left" Height="9" Margin="-39,259,0,0" Stroke="Black" VerticalAlignment="Top" Width="107" RenderTransformOrigin="0.5,0.5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="90"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Rectangle Fill="#FFA8A8A8" HorizontalAlignment="Left" Height="9" Margin="18,308,0,0" Stroke="Black" VerticalAlignment="Top" Width="27"/>
+        <Rectangle Fill="#FFA8A8A8" HorizontalAlignment="Left" Height="9" Margin="84,308,0,0" Stroke="Black" VerticalAlignment="Top" Width="67"/>
+        <Rectangle Fill="#FFA8A8A8" HorizontalAlignment="Left" Height="9" Margin="229,308,0,0" Stroke="Black" VerticalAlignment="Top" Width="129"/>
+        <Rectangle Fill="#FFA8A8A8" HorizontalAlignment="Left" Height="9" Margin="174,419,0,0" Stroke="Black" VerticalAlignment="Top" Width="609"/>
+        <Rectangle Fill="#FFA8A8A8" HorizontalAlignment="Left" Height="10" Margin="171,407,0,0" Stroke="Black" VerticalAlignment="Top" Width="16" RenderTransformOrigin="0.5,0.5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="90"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Rectangle Fill="#FFA8A8A8" HorizontalAlignment="Left" Height="10" Margin="770,407,0,0" Stroke="Black" VerticalAlignment="Top" Width="16" RenderTransformOrigin="0.5,0.5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="90"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Rectangle Fill="#FFA8A8A8" HorizontalAlignment="Left" Height="10" Margin="450,433,0,0" Stroke="Black" VerticalAlignment="Top" Width="22" RenderTransformOrigin="0.5,0.5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="90"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Rectangle Fill="#FFA8A8A8" HorizontalAlignment="Left" Height="9" Margin="229,275,0,0" Stroke="Black" VerticalAlignment="Top" Width="66"/>
+        <Rectangle Fill="#FF04B6D3" HorizontalAlignment="Left" Height="53" Margin="295,232,0,0" Stroke="Black" VerticalAlignment="Top" Width="51" RenderTransformOrigin="0.5,0.5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="90"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Rectangle Fill="#FFA8A8A8" HorizontalAlignment="Left" Height="9" Margin="346,275,0,0" Stroke="Black" VerticalAlignment="Top" Width="90"/>
+        <Rectangle Fill="#FFA8A8A8" HorizontalAlignment="Left" Height="10" Margin="418,291,0,0" Stroke="Black" VerticalAlignment="Top" Width="26" RenderTransformOrigin="0.5,0.5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="90"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Rectangle Fill="#FFA8A8A8" HorizontalAlignment="Left" Height="9" Margin="397,308,0,0" Stroke="Black" VerticalAlignment="Top" Width="39"/>
+        <CheckBox x:Name="Int_Calefactor" Content="Calefactor" HorizontalAlignment="Left" Margin="779,37,0,0" VerticalAlignment="Top" Click="Int_Calefactor_Click"/>
+        <ComboBox x:Name="comboPalet" Margin="583,308,0,0" VerticalAlignment="Top" SelectedIndex="0" HorizontalAlignment="Left" Width="120" Height="23">
+            <ComboBoxItem Content=""/>
+            <ComboBoxItem Content="18413311000352"/>
+            <ComboBoxItem Content="18413311000680"/>
+            <ComboBoxItem Content="18413311000628"/>
+        </ComboBox>
+        <Ellipse x:Name="Analisis_piloto" Fill="Red" HorizontalAlignment="Left" Height="20" Margin="150.82,130,0,0" Stroke="Black" VerticalAlignment="Top" Width="20" RenderTransformOrigin="0.209,0.8"/>
+        <Button x:Name="Inicio_fabricacion" Content="Iniciar fabricación" Margin="480.987,226.188,581.277,0" VerticalAlignment="Top" Click="Inicio_fabricacion_Click"/>
+        <Rectangle x:Name="Nivel_100k_Copy" Fill="Black" HorizontalAlignment="Left" Height="130" Margin="448,22,0,0" Stroke="Black" VerticalAlignment="Top" Width="20"/>
+        <Rectangle x:Name="Nivel_50k_Copy" Fill="Black" HorizontalAlignment="Left" Height="130" Margin="202,275,0,0" Stroke="Black" VerticalAlignment="Top" Width="20"/>
+        <Rectangle x:Name="Nivel_cuajo_Copy" Fill="Black" HorizontalAlignment="Left" Height="130" Margin="811,275,0,0" Stroke="Black" VerticalAlignment="Top" Width="20"/>
+        <CheckBox x:Name="Ingeniero1" Content="Ingeniero 1 Negativo" HorizontalAlignment="Right" Margin="0,141.238,117.689,0" VerticalAlignment="Top" Click="Camion_Click"/>
+        <CheckBox x:Name="Ingeniero2" Content="Ingeniero 2 Negativo" HorizontalAlignment="Right" Margin="0,159.14,117.689,0" VerticalAlignment="Top" Click="Camion_Click"/>
+        <CheckBox x:Name="Ingeniero3" Content="Ingeniero 3 Negativo" HorizontalAlignment="Right" Margin="0,178.1,117.689,0" VerticalAlignment="Top" Click="Camion_Click"/>
+        <CheckBox x:Name="Ingeniero4" Content="Ingeniero 4 Negativo" HorizontalAlignment="Right" Margin="0,198.198,117.689,0" VerticalAlignment="Top" Click="Camion_Click"/>
+        <CheckBox x:Name="Ingeniero5" Content="Ingeniero 5 Negativo" HorizontalAlignment="Right" Margin="0,219.1,117.689,0" VerticalAlignment="Top" Click="Camion_Click"/>
+        <Label x:Name="LabelControlCalidad" Content="Control de calidad" HorizontalAlignment="Right" Margin="0,112.05,129.264,0" VerticalAlignment="Top"/>
+        <Label x:Name="Prueba" Content="Prueba" HorizontalAlignment="Left" Margin="229,138.386,0,0" VerticalAlignment="Top" Width="54.383"/>
+    </Grid>
+</Window>
